@@ -1,0 +1,15 @@
+header {
+  background-color: #eaedff;
+}
+header p {
+  font-family: "PT Serif", serif;
+  font-style: italic;
+  font-size: 50px;
+  margin-left: 150px;
+  margin-right: 150px;
+}
+header ul {
+  list-style: none;
+}
+
+/*# sourceMappingURL=_header.css.map */

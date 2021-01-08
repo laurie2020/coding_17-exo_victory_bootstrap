@@ -1,0 +1,16 @@
+#intro {
+  background-image: url(../../img/banner-bg.jpg);
+  height: 600px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#intro p {
+  margin: 0 auto;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+#intro button {
+  margin-top: 20px;
+}
+
+/*# sourceMappingURL=_intro.css.map */
