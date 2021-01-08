@@ -1,0 +1,45 @@
+#order {
+  padding: 100px;
+}
+#order #call {
+  padding-bottom: 100px;
+}
+#order #call #contact {
+  height: 300px;
+  width: 350px;
+}
+#order #call #contact h2 {
+  margin-bottom: 20px;
+}
+#order #call #contact div {
+  margin-bottom: 17px;
+}
+#order #call #contact p {
+  margin-bottom: 17px;
+  font-size: 12px;
+}
+#order #call #contact a {
+  text-decoration: none;
+  font-size: 20px;
+  font-weight: bold;
+}
+#order #call #contact button {
+  margin-bottom: 17px;
+  font-size: 14px;
+}
+#order #call #contact #number {
+  background-color: #FE8071;
+  padding-left: 55px;
+  padding-right: 55px;
+}
+#order #call #contact #number p {
+  margin-bottom: 0;
+}
+#order #menu {
+  width: 85%;
+}
+#order #menu img {
+  border: solid 10px #eaedff;
+}
+
+/*# sourceMappingURL=_order.css.map */
