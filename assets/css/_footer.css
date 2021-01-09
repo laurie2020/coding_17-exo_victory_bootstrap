@@ -1,0 +1,21 @@
+footer {
+  background-color: #424661;
+  padding: 0 200px;
+  font-size: 13px;
+  color: white;
+  height: 130px;
+}
+footer p {
+  margin: 0;
+}
+footer i {
+  background-color: white;
+  color: #424661;
+  padding: 10px;
+  height: 32.8px;
+  width: 32.8px;
+  text-align: center;
+  margin: 0 5px;
+}
+
+/*# sourceMappingURL=_footer.css.map */
