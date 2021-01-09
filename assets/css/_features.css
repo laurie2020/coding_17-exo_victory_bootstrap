@@ -24,7 +24,7 @@
 
 .featured-text {
   background-color: white;
-  padding: 15px;
+  padding: 25px;
 }
 .featured-text h4 {
   font-size: 20px;
@@ -32,8 +32,9 @@
 }
 .featured-text p {
   color: #adb5bd;
-  font-size: 15px;
+  font-size: 13px;
   margin: 0;
+  font-weight: 500;
 }
 
 #breakfast {

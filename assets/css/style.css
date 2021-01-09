@@ -150,8 +150,9 @@ header ul {
 }
 .featured-text p {
   color: #adb5bd;
-  font-size: 15px;
+  font-size: 13px;
   margin: 0;
+  font-weight: 500;
 }
 
 #breakfast {
@@ -181,6 +182,88 @@ header ul {
   position: absolute;
   bottom: 0;
   right: 0;
+  font-weight: 500;
+}
+
+#blog {
+  background-color: #eaedff;
+  padding: 60px 0;
+}
+#blog h2 {
+  padding: 40px;
+  font-weight: 600;
+}
+#blog #blog-container {
+  width: 75%;
+}
+
+#blog-post-1 {
+  background-image: url(../../img/blog_post_01.jpg);
+}
+
+#blog-post-2 {
+  background-image: url(../../img/blog_post_02.jpg);
+}
+
+#blog-post-3 {
+  background-image: url(../../img/blog_post_03.jpg);
+}
+
+#blog-post-4 {
+  background-image: url(../../img/blog_post_04.jpg);
+}
+
+.blog-post {
+  padding: 0;
+}
+.blog-post .row {
+  margin: 0;
+}
+
+.blog-image {
+  width: 270px;
+  height: 237px;
+  padding: 0;
+  position: relative;
+}
+
+.blog-text {
+  width: 270px;
+  height: 237px;
+  background-color: white;
+  padding: 20px 15px;
+}
+.blog-text h4 {
+  font-size: 22px;
+  font-weight: 600;
+  margin: 0;
+}
+.blog-text p {
+  color: #adb5bd;
+  font-size: 13px;
+  margin-top: 20px;
+  margin-bottom: 30px;
+  font-weight: 500;
+}
+.blog-text span {
+  color: #8f959b;
+  font-size: 12px;
+  font-weight: 500;
+}
+
+.date {
+  background-color: #f8f9facc;
+  padding: 10px 17px;
+  margin: 0;
+  position: absolute;
+  font-weight: 500;
+}
+
+.link {
+  margin-top: 20px;
+}
+.link a {
+  text-decoration: none;
   font-weight: 500;
 }
 
