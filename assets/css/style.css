@@ -267,6 +267,37 @@ header ul {
   font-weight: 500;
 }
 
+#signup {
+  background-image: url(../../img/signup-bg.jpg);
+  height: 265px;
+  padding-top: 20px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#signup h2 {
+  margin-bottom: 40px;
+}
+#signup form input {
+  border: none;
+  height: 40px;
+  width: 400px;
+  margin-right: 20px;
+  border-radius: 3px;
+  background-color: #e6e4e4;
+  padding-bottom: 5px;
+  padding-left: 10px;
+}
+#signup form button {
+  background-color: #00000000;
+  border: solid white 1px;
+  color: white;
+  height: 40px;
+  width: 125px;
+  font-size: 13px;
+  font-weight: 500;
+  padding: 5px 10px;
+}
+
 h2, p, button {
   font-family: "Roboto", sans-serif;
 }
